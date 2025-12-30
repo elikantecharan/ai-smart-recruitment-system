@@ -1,0 +1,29 @@
+{
+    "job_query": "Seeking Python Machine Learning Engineer with Scikit-Learn, SQL, and Data Analytics experience.",
+    "top_candidates": [
+        {
+            "id": 101,
+            "name": "Aarav Sharma",
+            "experience": "4 Years",
+            "score": 0.92,
+            "match": "94.5%",
+            "skills": "Python, ML, Scikit-Learn, SQL"
+        },
+        {
+            "id": 105,
+            "name": "Vikram Singh",
+            "experience": "3 Years",
+            "score": 0.88,
+            "match": "88.2%",
+            "skills": "Python, Scikit-Learn, Data Analytics"
+        },
+        {
+            "id": 107,
+            "name": "Karan Joshi",
+            "experience": "6 Years",
+            "score": 0.97,
+            "match": "84.0%",
+            "skills": "Python, PyTorch, TensorFlow, NLP"
+        }
+    ]
+}

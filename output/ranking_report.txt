@@ -1,0 +1,18 @@
+============================================================
+    AI SMART RECRUITMENT SYSTEM - CANDIDATE RANKING REPORT   
+============================================================
+
+JOB QUERY: Seeking Python Machine Learning Engineer with Scikit-Learn, SQL, and Data Analytics experience.
+
+CANDIDATE RANKINGS:
+----------------------------------------------------------------------------------------------------
+Candidate ID | Candidate Name | Experience | Suitability Score | Match % | Primary Tech Stack
+----------------------------------------------------------------------------------------------------
+101          | Aarav Sharma   | 4 Years    | 0.92              | 94.5%   | Python, ML, Scikit-Learn, SQL
+105          | Vikram Singh   | 3 Years    | 0.88              | 88.2%   | Python, Scikit-Learn, Data Analytics
+107          | Karan Joshi    | 6 Years    | 0.97              | 84.0%   | Python, PyTorch, TensorFlow, NLP
+106          | Neha Gupta     | 2 Years    | 0.84              | 76.5%   | Python, Django, Node.js, React
+102          | Diya Patel     | 2 Years    | 0.78              | 65.0%   | Java, SQL, Spring Boot, REST APIs
+----------------------------------------------------------------------------------------------------
+
+Summary: Candidate #101 (Aarav Sharma) matched as the top candidate with a 94.5% relevance score.

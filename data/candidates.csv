@@ -1,0 +1,9 @@
+candidate_id,name,experience_years,education,skills,domain,previous_role,suitability_score
+101,Aarav Sharma,4,B.Tech CSE,Python Machine Learning Scikit-Learn SQL Pandas,Data Science,ML Engineer,0.92
+102,Diya Patel,2,B.Tech ECE,Java SQL Spring Boot REST APIs,Software Engineering,Java Developer,0.78
+103,Rohan Verma,5,M.Tech CSE,Python PyTorch Deep Learning Computer Vision NLP,Artificial Intelligence,AI Researcher,0.95
+104,Ananya Rao,1,B.Sc CS,HTML CSS JavaScript React Web Design,Frontend Development,Web Developer,0.65
+105,Vikram Singh,3,B.Tech IT,Python Scikit-Learn Data Analytics SQL Statistics,Data Science,Data Analyst,0.88
+106,Neha Gupta,2,B.Tech CSE,Python Django Node.js MongoDB React,Full-Stack,Full-Stack Developer,0.84
+107,Karan Joshi,6,M.Tech AI,Python PyTorch TensorFlow Machine Learning NLP,Artificial Intelligence,Senior AI Engineer,0.97
+108,Pooja Reddy,1,B.Tech CSE,Java Python SQL Data Structures,Software Engineering,Junior Software Engineer,0.72
